@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Rising Star | Business & Digital Services</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header class="header">
+  <div class="logo">Rising<span>Star</span></div>
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#formations">Formations</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Construis ton succès<br>avec Rising Star</h1>
+  <p>Services professionnels • Formations rentables • Solutions digitales</p>
+  <a href="#contact" class="btn-primary">Démarrer maintenant</a>
+</section>
+
+<section id="services" class="section">
+  <h2>Nos Services Premium</h2>
+
+  <div class="cards">
+    <div class="card">
+      <h3>💼 Services Business</h3>
+      <p>Coaching, stratégie, accompagnement entrepreneurial.</p>
+    </div>
+
+    <div class="card">
+      <h3>📢 Marketing Digital</h3>
+      <p>Visibilité WhatsApp, réseaux sociaux, branding.</p>
+    </div>
+
+    <div class="card">
+      <h3>📝 Services Administratifs</h3>
+      <p>CV professionnels, lettres, documents officiels.</p>
+    </div>
+  </div>
+</section>
+
+<section id="formations" class="section dark">
+  <h2>Formations Payantes</h2>
+  <p>Des formations pratiques adaptées au marché africain.</p>
+
+  <div class="cards">
+    <div class="card premium">
+      <h3>Business & Revenus</h3>
+      <p>Apprends à créer des sources de revenus durables.</p>
+    </div>
+
+    <div class="card premium">
+      <h3>Vente en Ligne</h3>
+      <p>Vendre sans boutique physique.</p>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <h2>Contact & Commandes</h2>
+  <p>Prêt à travailler avec nous ?</p>
+
+  <a href="https://wa.me/228XXXXXXXX" class="btn-primary">
+    💬 Commander sur WhatsApp
+  </a>
+</section>
+
+<footer>
+  <p>© 2026 Rising Star • Business & Digital</p>
+</footer>
+
+</body>
+</html>
